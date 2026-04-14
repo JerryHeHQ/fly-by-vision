@@ -1,8 +1,11 @@
-Shoulder Coords : [-4581.538, -185.471, 138.976]
-Wrist Coords    : [-4528.443, -181.638, 138.979] 
-Main Coords     : [-4079.628, -319.957, 438.976]
+Shoulder Coords : [-4581.538, -185.471, 141.476]
+Wrist Coords    : [-4528.306, -185.768, 141.553]
+Main Coords     : [-4079.628, -319.957, 441.476]
 Main Rotator    : [-0.837, 0.224, -0.500]
 
-Distance : 600cm
-Yaw      : -15deg
-Pitch    : 30deg
+Distance : 600 cm
+Yaw      : -15 deg
+Pitch    :  30 deg
+
+Note that distance is relative to the shoulder joint and yaw/pitch are relative to global axes.
+Additionally, the shoulder-wrist vector was chosen to be nearly aligned with the x-axis in this sample (+/- 1 deg).
